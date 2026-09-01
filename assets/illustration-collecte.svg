@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<rect width="900" height="650" rx="52" fill="#E6DEF0"/><circle cx="125" cy="110" r="82" fill="#F3CBD9"/><circle cx="785" cy="535" r="110" fill="#CFE5D8"/>
+<path d="M240 250h420v235H240z" fill="#fff" stroke="#D8CCC3" stroke-width="6"/><path d="M300 250v-45h300v45" fill="none" stroke="#C43D73" stroke-width="18" stroke-linecap="round"/>
+<path d="M330 330h240M330 380h190M330 430h140" stroke="#6E4F91" stroke-width="14" stroke-linecap="round"/><circle cx="620" cy="370" r="55" fill="#C43D73"/><path d="M620 338v64M588 370h64" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<text x="240" y="555" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#4A3D35">COLLECTES SOLIDAIRES</text><text x="240" y="590" font-family="Arial,sans-serif" font-size="20" fill="#6A5B52">Des dons transformés en projets utiles sur le terrain</text></svg>
