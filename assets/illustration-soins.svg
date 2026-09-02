@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
-<rect width="900" height="650" rx="52" fill="#E8E1F0"/><circle cx="110" cy="100" r="78" fill="#CFE5D8"/><circle cx="790" cy="535" r="105" fill="#F1CBD9"/>
-<rect x="145" y="160" width="610" height="300" rx="34" fill="#fff" opacity=".95"/><rect x="195" y="205" width="510" height="175" rx="24" fill="#F6F2EE" stroke="#D8CCC3" stroke-width="6"/>
-<path d="M235 330h430" stroke="#8C7A6C" stroke-width="9" stroke-linecap="round"/><path d="M270 315c38-68 88-96 143-96s105 28 143 96" fill="none" stroke="#C8E4D2" stroke-width="38" stroke-linecap="round"/>
-<circle cx="414" cy="220" r="32" fill="#8D7B6C"/><path d="M388 244c17 18 35 18 52 0v68h-52z" fill="#8D7B6C"/>
-<path d="M385 290c-45 14-72 42-90 77M443 290c45 14 72 42 90 77" fill="none" stroke="#4A3D35" stroke-width="18" stroke-linecap="round"/>
-<circle cx="646" cy="270" r="24" fill="#C43D73"/><path d="M646 232v76M608 270h76" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
-<text x="170" y="520" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#4A3D35">SOINS DE DÉVELOPPEMENT</text>
-<text x="170" y="555" font-family="Arial,sans-serif" font-size="20" fill="#6A5B52">Un environnement adapté au rythme du nouveau-né</text></svg>
