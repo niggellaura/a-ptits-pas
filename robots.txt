@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://fabulous-cat-5370ab.netlify.app/sitemap.xml
