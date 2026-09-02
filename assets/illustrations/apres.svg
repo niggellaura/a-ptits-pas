@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+<title id="t">Après — quelques années plus tard</title><desc id="d">Après — quelques années plus tard</desc>
+<rect width="900" height="560" rx="54" fill="#f5efe8"/>
+<circle cx="760" cy="110" r="130" fill="#dcd7ea" opacity=".65"/>
+<circle cx="140" cy="440" r="150" fill="#dbe9df" opacity=".72"/>
+
+<path d="M450 145 C385 190 355 265 380 335 C405 405 495 405 520 335 C545 265 515 190 450 145Z" fill="#d9bfd0"/>
+<circle cx="450" cy="215" r="52" fill="#d5a07d"/><path d="M395 210 Q450 145 505 210 Q480 180 450 180 Q420 180 395 210" fill="#514743"/>
+<path d="M365 310 Q450 260 535 310 L570 455 H330Z" fill="#8ba28a"/>
+<path d="M420 300 Q450 280 480 300" fill="none" stroke="#fffaf4" stroke-width="12" stroke-linecap="round"/>
+<circle cx="450" cy="115" r="12" fill="#b51f5b"/><circle cx="415" cy="95" r="8" fill="#b51f5b"/><circle cx="485" cy="95" r="8" fill="#b51f5b"/>
+<text x="450" y="500" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#6b557e">grandir, avancer, raconter</text>
+
+</svg>
