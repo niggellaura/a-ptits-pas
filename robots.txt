@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://niggellaura.github.io/a-ptits-pas/sitemap.xml
